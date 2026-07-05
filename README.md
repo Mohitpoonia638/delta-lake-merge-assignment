@@ -38,7 +38,25 @@ The objective is to create a Customer Master table, simulate incremental custome
 8. Validate the updated Customer Master table.
 9. View Delta transaction history.
 
----
+## Screenshots
+
+### Customer Master Delta Table
+![Customer Master](screenshots/01_customer_master_delta_table.png)
+
+### Incremental Customer Data
+![Incremental Data](screenshots/02_customer_incremental_delta_table.png)
+
+### MERGE Operation
+![Merge](screenshots/03_merge_operation.png)
+
+### Final Customer Master
+![Final Table](screenshots/04_final_customer_master.png)
+
+### Delta History
+![History](screenshots/05_delta_history.png)
+
+### Validation Results
+![Validation](screenshots/06_validation_results.png)
 
 ## MERGE Summary
 
